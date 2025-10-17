@@ -13,7 +13,7 @@
 ---
 
 ### 📚 Notion 포트폴리오
-[![Notion]([https://velog-readme-stats.vercel.app/api/list?name=kyj)](https://velog.io/@kyj](https://ribbon-grain-5bc.notion.site/Portfolio-1c8da0923ef280c29baec68c39df83fc?pvs=73))
+[![포트폴리오 바로가기](https://ribbon-grain-5bc.notion.site/Portfolio-1c8da0923ef280c29baec68c39df83fc?pvs=73))
 
 ---
 
