@@ -12,8 +12,7 @@
 
 ---
 
-### 📚 Notion 포트폴리오
-![포트폴리오 바로가기](https://ribbon-grain-5bc.notion.site/Portfolio-1c8da0923ef280c29baec68c39df83fc?pvs=73)
+### 📚 [Notion 포트폴리오](https://ribbon-grain-5bc.notion.site/Portfolio-1c8da0923ef280c29baec68c39df83fc?pvs=73)
 
 ---
 
