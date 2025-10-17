@@ -12,6 +12,11 @@
 
 ---
 
+### 📚 Notion 포트폴리오
+[![Notion]([https://velog-readme-stats.vercel.app/api/list?name=kyj)](https://velog.io/@kyj](https://ribbon-grain-5bc.notion.site/Portfolio-1c8da0923ef280c29baec68c39df83fc?pvs=73))
+
+---
+
 ## ⚙ 기술 스택
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psyche1021)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kwonyongjun)
